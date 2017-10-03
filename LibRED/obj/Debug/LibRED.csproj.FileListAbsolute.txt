@@ -1,0 +1,5 @@
+F:\ISM\ISMStrings1\LibRED\bin\Debug\LibRED.dll
+F:\ISM\ISMStrings1\LibRED\bin\Debug\LibRED.pdb
+F:\ISM\ISMStrings1\LibRED\obj\Debug\LibRED.dll
+F:\ISM\ISMStrings1\LibRED\obj\Debug\LibRED.pdb
+F:\ISM\ISMStrings1\LibRED\obj\Debug\LibRED.csprojResolveAssemblyReference.cache

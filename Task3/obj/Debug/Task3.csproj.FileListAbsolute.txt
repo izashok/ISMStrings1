@@ -1,0 +1,8 @@
+F:\ISM\ISMStrings1\Task3\bin\Debug\Task3.exe.config
+F:\ISM\ISMStrings1\Task3\bin\Debug\Task3.exe
+F:\ISM\ISMStrings1\Task3\bin\Debug\Task3.pdb
+F:\ISM\ISMStrings1\Task3\bin\Debug\LibRED.dll
+F:\ISM\ISMStrings1\Task3\bin\Debug\LibRED.pdb
+F:\ISM\ISMStrings1\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+F:\ISM\ISMStrings1\Task3\obj\Debug\Task3.exe
+F:\ISM\ISMStrings1\Task3\obj\Debug\Task3.pdb

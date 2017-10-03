@@ -1,0 +1,5 @@
+F:\ISM\ISMStrings1\LibSTR\bin\Debug\LibSTR.dll
+F:\ISM\ISMStrings1\LibSTR\bin\Debug\LibSTR.pdb
+F:\ISM\ISMStrings1\LibSTR\obj\Debug\LibSTR.csprojResolveAssemblyReference.cache
+F:\ISM\ISMStrings1\LibSTR\obj\Debug\LibSTR.dll
+F:\ISM\ISMStrings1\LibSTR\obj\Debug\LibSTR.pdb
