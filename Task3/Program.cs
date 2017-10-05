@@ -16,6 +16,13 @@ namespace Task3
             string s = Console.ReadLine();
 
             //1
+            bool qq;
+            LibRED.Class1.T1(ref s, out qq);
+            if (qq==true)
+                Console.WriteLine("Время корректное");
+            else
+                Console.WriteLine("Время некорректное");
+
             //1
 
             //2
@@ -31,8 +38,15 @@ namespace Task3
 
             //3
 
-
+            bool q3;
+            LibRED.Class1.T3(ref s, out q3);
+            if (q == true)
+                Console.WriteLine("IP correct");
+            else
+                Console.WriteLine("IP incorrect");
             //3
+
+
         }
     }
 }

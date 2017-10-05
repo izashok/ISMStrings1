@@ -10,9 +10,8 @@ namespace Task2
     {
         static void Main(string[] args)
         {
-           
-                Console.WriteLine("Введите строку");
-                string s = Console.ReadLine();
+            Console.WriteLine("Введите строку");
+            string s = Console.ReadLine();
 
             //1
             string s1,s2;

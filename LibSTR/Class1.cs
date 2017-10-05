@@ -130,7 +130,7 @@ namespace LibSTR
         }
         //6end
         //7start
-        /*
+        
         public static void Five(ref string s, out string s1s)
         {
             string f1;
@@ -152,7 +152,7 @@ namespace LibSTR
             
             //7end
             }
-            */
+            
 
         //8start
         public static void Six(ref string s, out string zaza)

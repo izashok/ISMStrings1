@@ -79,7 +79,18 @@ namespace LibRED
         //4
 
         //3-1
-
+        public static void T1(ref string s, out bool qq)
+        {
+            string stand = @"[0-1]\d:[1-5]\d|2[0-3]:[1-5]\d";
+            if (Regex.IsMatch(s, stand, RegexOptions.IgnoreCase))
+            {
+                qq = true;
+            }
+            else
+            {
+                qq = false;
+            }
+        }
         //3-1
 
         //3-2
@@ -98,9 +109,20 @@ namespace LibRED
                 }
 }
         //3-2
-        
-        //3-3
 
+        //3-3
+        public static void T3(ref string s, out bool q3)
+        {
+            string stand = @"[0-1]{1}\d{2}|2[0-5]{2}\.[0-1]{1}\d{2}|2[0-5]{2}\.[0-1]{1}\d{2}|2[0-5]{2}\.[0-1]{1}\d{2}|2[0-5]{2}";
+            if (Regex.IsMatch(s, stand, RegexOptions.IgnoreCase))
+            {
+                q3 = true;
+            }
+            else
+            {
+                q3 = false;
+            }
+        }
         //3-3
     }
 }
